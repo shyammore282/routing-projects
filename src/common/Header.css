@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  color: darkred;
+  font-style: italic;
+}
+nav ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+p {
+  text-align: center;
+}
+.list {
+  cursor: pointer;
+  color: red;
+}
+.list:hover {
+  text-decoration: underline;
+}
